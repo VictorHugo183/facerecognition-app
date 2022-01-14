@@ -1,0 +1,12 @@
+.signInBG{
+  background-color: #111;
+}
+
+.failedMessage{
+  color: #FF4136;
+  margin-bottom: 1em;
+}
+
+.registerBtn{
+  display: inline-block;
+}
