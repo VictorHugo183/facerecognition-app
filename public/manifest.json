@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Facial recognition",
+  "name": "Facial recognition app",
   "icons": [
     {
       "src": "favicon.ico",
